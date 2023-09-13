@@ -1,2 +1,6 @@
-app/* linguist-documentation=false
-app/* linguist-vendored
+*.csharp linguist-detectable=true  
+*.js linguist-detectable=true  
+*.html linguist-detectable=true  
+*.xml linguist-detectable=true   
+*.jsx linguist-detectable=true   
+*.css linguist-detectable=true  
